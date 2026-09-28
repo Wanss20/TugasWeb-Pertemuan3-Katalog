@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+<rect width="400" height="280" fill="#dc3545"/>
+<path d="M200 45c-55 0-75 45-75 100v45c0 45 30 65 75 65s75-20 75-65v-45c0-55-20-100-75-100z" fill="white"/><line x1="200" y1="50" x2="200" y2="120" stroke="#dc3545" stroke-width="8"/><circle cx="200" cy="105" r="10" fill="#dc3545"/>
+<text x="200" y="270" text-anchor="middle" font-family="Arial" font-size="16" fill="white">Gaming Mouse</text>
+</svg>

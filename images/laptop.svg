@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+<rect width="400" height="280" fill="#0d6efd"/>
+<rect x="80" y="55" width="240" height="145" rx="10" fill="white"/><rect x="100" y="75" width="200" height="105" fill="#dbeafe"/><path d="M55 215h290l25 30H30z" fill="white"/>
+<text x="200" y="270" text-anchor="middle" font-family="Arial" font-size="16" fill="white">Laptop Gaming</text>
+</svg>
